@@ -1,0 +1,1 @@
+i(N):- N=1->write(1);N=2->write(2);write(0).
